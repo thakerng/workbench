@@ -1,5 +1,5 @@
 {
-    "name": "illuminate/workbench",
+    "name": "thakerng/workbench",
     "description": "The Illuminate Workbench package.",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
         "php": ">=5.4.0",
         "illuminate/filesystem": "~5.0",
         "illuminate/support": "~5.0",
-        "symfony/finder": "2.6.*"
+        "symfony/finder": "2.7.*"
     },
     "require-dev": {
         "illuminate/console": "~5.0"
