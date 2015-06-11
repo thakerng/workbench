@@ -1,8 +1,8 @@
-<?php namespace Illuminate\Workbench\Console;
+<?php namespace Thakerng\Workbench\Console;
 
 use Illuminate\Console\Command;
-use Illuminate\Workbench\Package;
-use Illuminate\Workbench\PackageCreator;
+use Thakerng\Workbench\Package;
+use Thakerng\Workbench\PackageCreator;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Input\InputArgument;
 
